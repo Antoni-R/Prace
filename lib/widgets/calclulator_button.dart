@@ -21,7 +21,7 @@ class CalculatorButton extends StatelessWidget {
     return Container(
         margin: EdgeInsets.all(5.0),
         child: SizedBox(
-          width: 70,
+          width: 300,
           height: 70,
           child: ElevatedButton(
             style: ElevatedButton.styleFrom(
